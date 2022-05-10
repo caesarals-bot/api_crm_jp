@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "CESAR AUGUSTO",
+      "empresa": "dreams and dreams",
+      "email": "correo@correo.com",
+      "telefono": "1234567",
+      "notas": "compras y otros",
+      "id": 2
+    },
+    {
+      "nombre": "sandra",
+      "empresa": "dreams an dreams",
+      "email": "correo@correo.com",
+      "telefono": "123456",
+      "notas": "Gerente",
+      "id": 3
+    },
+    {
+      "nombre": "juan",
+      "empresa": "dreams an dreams",
+      "email": "correo@correo.com",
+      "telefono": "123456",
+      "notas": "dev",
+      "id": 4
+    },
+    {
+      "nombre": "ALEX MENESIO",
+      "empresa": "FARMATODO",
+      "email": "correo@correo.com",
+      "telefono": "34234987",
+      "notas": "GDDSDAS",
+      "id": 5
+    }
+  ]
+}
